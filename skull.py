@@ -146,6 +146,6 @@ $k,_`$IS$$$$SIIS$$$SSIii:·
 
 while True:
     for frame in frames:
-        os.system('cls' if os.name == 'nt' else 'clear')
+        print("\033[H\033[J", end="")  # limpia más suave que clear
         print(frame)
-        time.sleep(0.2)
+        time.sleep(0.18)
