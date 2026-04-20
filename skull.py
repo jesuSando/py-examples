@@ -99,7 +99,8 @@ SSS$$$$SS$$SSI:i$$7°°?S.
 
 ]
 
-for i in range(len(frames)):
-    os.system('cls' if os.name == 'nt' else 'clear')
-    print(frames[i])
-    time.sleep(1)
+while True:
+    for frame in frames:
+        os.system('cls' if os.name == 'nt' else 'clear')
+        print(frame)
+        time.sleep(0.2)
