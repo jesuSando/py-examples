@@ -15,8 +15,23 @@ frames =[
 dS$?Ii?°?$S?°"`^"4ISIii::·
 °?$Sk.           ·?7I::·
 ^:?i:"`         .-'¨
-
 """,
+"""
+           _.,,._
+       ,p$$$$$$SSIi:·.
+     :i$$$$$$S$$$SSSSi:.
+   ,$$$$SSSS$$$$$7I$$$Ii:·
+  j$$$$SS$$$$$$7IId$$$SIi:·
+ ."I7¨`"°$$iI$7iIS$$$$SIi:·
+ `·jI    `?L:iIIS$$$$SII::·
+ ,°$$·    j$b:iIS$$S?iIi:·
+ ? i$L,_.d$d$:ijSSSIiSi::·
+ i.j$S?S$$$$S%u,°?iISi::·
+.d$SIIi?°?$S?°`   ¨`¨.:'
+:SIISIi:·          .-¨
+·?i:·i?·^
+"""
+
 
 ]
 
