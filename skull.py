@@ -1,3 +1,4 @@
+import os
 import time
 
 frames =[
@@ -30,12 +31,28 @@ dS$?Ii?°?$S?°"`^"4ISIii::·
 .d$SIIi?°?$S?°`   ¨`¨.:'
 :SIISIi:·          .-¨
 ·?i:·i?·^
+""",
+"""
+         _.,,._
+      ,d$$$$$SSIi:.
+    ,$$$SSZS$$$SSIi:.
+   j$$$$SZSS$$$$SSIIi:·
+  j$$$$SS$$$$$SS7iiiII:·
+ j°`^4SSI7°"°?$?:iiISIi:
+ ?    $i?     ?$:iIS$Si:
+jL _,$?iL    j7k:iIS$Si:
+?$i$7  ?$b,_,d$$$.:Ii?:·
+i$$?   :S$?i?$$$Siu,?•'
+ ¨?I./,$?I:·'°?S?°' '
+  IS$IS$SbI:·  ¨  .-
+  :i?i:i?·i·
+    ¨  ` `^
 """
 
 
 ]
 
 for i in range(len(frames)):
-      
+    os.system('cls' if os.name == 'nt' else 'clear')
     print(frames[i])
     time.sleep(1)
